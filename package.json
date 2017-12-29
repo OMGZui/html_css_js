@@ -1,0 +1,19 @@
+{
+  "name": "html_css_js",
+  "version": "1.0.0",
+  "description": "html_css_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "小粽子",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
